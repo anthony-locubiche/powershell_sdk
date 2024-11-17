@@ -1,10 +1,10 @@
 Remove-Module -Name Show-Calendar
 Remove-Module -Name Affichage
-Import-Module -Name C:\Users\bibic\Documents\MesPowershells\Scripts\Show-Calendar -Verbose
-Import-Module -Name C:\Users\bibic\Documents\MesPowershells\Scripts\Affichage -Verbose
+Import-Module -Name .\Scripts\Show-Calendar -Verbose
+Import-Module -Name .\Scripts\Affichage -Verbose
 
-Afficher Anthony
-Crier Rayane
+Afficher Freezer
+Crier Toto
 # $maSaisie = Saisir
 #Write-Output "Retour de la fonction : $maSaisie"
 
